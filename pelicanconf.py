@@ -1,0 +1,11 @@
+SITENAME = "rohith-puli.github.io"
+THEME = "attila"
+HOME_COVER = "Images/GenArt.jpg"
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+DELETE_OUTPUT_DIRECTORY = True
+DEFAULT_DATE = 'fs'
+USE_FOLDER_AS_CATEGORY = True
+FILENAME_METADATA = '(?P<title>.*)'
+LOAD_CONTENT_CACHE = False
+LIQUID_TAGS = ["soundcloud", "youtube"]

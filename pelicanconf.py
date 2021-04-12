@@ -8,4 +8,3 @@ DEFAULT_DATE = 'fs'
 USE_FOLDER_AS_CATEGORY = True
 FILENAME_METADATA = '(?P<title>.*)'
 LOAD_CONTENT_CACHE = False
-LIQUID_TAGS = [ "youtube"]

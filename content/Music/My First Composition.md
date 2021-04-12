@@ -12,4 +12,3 @@ Here is the [SoundCloud Link](https://soundcloud.com/overdrive-3-141/marugelara-
 
 And this is the [YouTube Link](https://www.youtube.com/watch?v=MiARzLGNyZk)
 
-{% youtube MiARzLGNyZk [400] [200] %}
